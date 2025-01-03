@@ -1,6 +1,14 @@
 // import Link from 'next/link'
 import Content from '@/components/Content'
-import { getPost } from '../../lib/content'
+import { getPost, getSortedPostsData } from '../../lib/content'
+
+// Return a list of `params` to populate the [postId] dynamic segment
+export async function generateStaticParams() {
+	const posts = getSortedPostsData()
+	return posts.map(post => ({
+		pageId: post.id
+	}))
+}
 
 export default async function Page({
 	params
