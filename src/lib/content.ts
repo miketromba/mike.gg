@@ -3,7 +3,7 @@ import path from 'path'
 import matter from 'gray-matter'
 import { marked } from 'marked'
 
-const postsDirectory = path.join(process.cwd(), 'content/posts')
+const postsDirectory = path.resolve('content/posts')
 
 export interface Post {
 	id: string
@@ -61,7 +61,7 @@ export function getPost(id: string): Post {
 }
 
 export function getAboutPageData(): Post {
-	const fullPath = path.join(process.cwd(), 'content/about.md')
+	const fullPath = path.resolve('content/about.md')
 	const fileContents = fs.readFileSync(fullPath, 'utf8')
 	const matterResult = matter(fileContents)
 	return {
