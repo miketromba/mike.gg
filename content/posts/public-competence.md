@@ -3,7 +3,7 @@ title: Public competence
 date: 2024-01-03
 ---
 
-I created this website today and I'd like kick it off by sharing the rationale behind it.
+I created this website today and I thought I'd kick it off by sharing the rationale behind it.
 
 **Reasons to create a personal website in no particular order:**
 
