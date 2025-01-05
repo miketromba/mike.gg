@@ -10,32 +10,36 @@ export interface Post {
 	title: string
 	date: string
 	content: string
+	draft?: boolean
 }
 
 export function getSortedPostsData(): Post[] {
 	// Get file names under /posts
 	const fileNames = fs.readdirSync(postsDirectory)
-	const allPostsData = fileNames.map(fileName => {
-		// Remove ".md" from file name to get id
-		const id = fileName.replace(/\.md$/, '')
+	const allPostsData = fileNames
+		.map(fileName => {
+			// Remove ".md" from file name to get id
+			const id = fileName.replace(/\.md$/, '')
 
-		// Read markdown file as string
-		const fullPath = path.join(postsDirectory, fileName)
-		const fileContents = fs.readFileSync(fullPath, 'utf8')
+			// Read markdown file as string
+			const fullPath = path.join(postsDirectory, fileName)
+			const fileContents = fs.readFileSync(fullPath, 'utf8')
 
-		// Use gray-matter to parse the post metadata section
-		const matterResult = matter(fileContents)
+			// Use gray-matter to parse the post metadata section
+			const matterResult = matter(fileContents)
 
-		// Combine the data with the id
-		return {
-			id,
-			content: marked.parse(matterResult.content) as string,
-			...(matterResult.data as {
-				title: string
-				date: string
-			})
-		}
-	})
+			// Combine the data with the id
+			return {
+				id,
+				content: marked.parse(matterResult.content) as string,
+				...(matterResult.data as {
+					title: string
+					date: string
+					draft?: boolean
+				})
+			}
+		})
+		.filter(post => !post.draft)
 	// Sort posts by date
 	return allPostsData.sort((a, b) => {
 		if (a.date < b.date) {
