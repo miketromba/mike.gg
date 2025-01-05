@@ -71,8 +71,6 @@ You must always be diligent and fend off:
 - **Fatigue:** Anything that requires stable effort, cognition, and maintenance over an endless time horizon sucks. You must change the oil regularly, or the engine will seize. You’re signing up for a life of perpetual intentionality. Meaningful, rewarding, fulfilling, but fucking hard sometimes. Especially when you make bad decisions and you have to accept the potentially substantial loss associated with those decisions as entirely your fault. It’s tiring. Therefore you must treat yourself and your life like an athlete. You must take care of your health, mind, and soul, so that you can awake each morning and continue to fight the battle with vigor & enthusiasm.
 - **Decay:** The invigorating clarity and potency of the values you discover and life changes you make will be at an all-time high at the start. But this enthusiasm will decay. Your mind will wander. “Life shit” will happen and force you into a reactive state. You’ll have to fight the inertia of reactivity over and over to maintain this proactive agency in your life. To toggle back into offense mode.
 
-> maybe sun szu are of war quote or robert greene
-
 ### 2) Defending against others
 
 This one is often obvious. You have an objective, and your adversary has an opposing or tangential objective. Overt negotiation or collaborative problem solving is the result.
