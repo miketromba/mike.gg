@@ -3,8 +3,6 @@ title: Live life on offense
 date: 2024-01-04
 ---
 
-Live life on offense
-
 The most interesting and meaningful things that have happened in my life have almost always been the result of taking some kind of divergent action. By divergent action, I mean an action that diverges from the normal momentum of life. An action that would not be the obvious next step if you were to project out your life on a timeline. An action. Not a reaction.
 
 From a young age, we’re programmed to react. We’re handed tasks to accomplish, a set of rules to abide by, and we react accordingly. In fact, I believe most people live life in this reactive state, most of the time.
