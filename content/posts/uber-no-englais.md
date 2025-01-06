@@ -24,7 +24,7 @@ He asked enthuiastically, with a warm and interested smile on his face. He made 
 
 I couldn't turn down his friendly gesture and/or plea for help.
 
-I quickly flicked-on my social battery and proceeded to laboriously recount my new year's in detail, making sure to include lots of conversational hook points for him to latch onto, in hopes that he could easily identify and pick-up on one, and morph the conversation in the direction he found most interesting.
+I quickly flicked-on my social battery and proceeded to laboriously recount my new year's in detail, making sure to include lots of conversational hook points for him to latch onto, in hopes that he could easily identify and pick-up on one, and morph the conversation into the direction he found most interesting.
 
 Years of conversational practice, experimentation, mistakes, breakthroughs, and trial & error had led me to this point. I flexed just about every social muscle I could muster and produced what I thought was a well-structured, empathically-curated response for him. I loaded it with conversational layups for him to leverage. It wasn't my finest work, but I was damn proud of it. I was invested now. Genuinely curious as to which part sparked the most intrigue in him, where he would go next. I eagerly awaited his response.
 
