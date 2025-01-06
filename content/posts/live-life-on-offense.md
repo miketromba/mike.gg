@@ -63,7 +63,7 @@ If you've made it this far, congrats. The act of proactively changing and reshap
 
 ## 3) Actively manage & maintain your trajectory, and fend off the constant, endless horde of invaders trying to scale the castle walls and usurp your plan in favor of theirs
 
-Entropy. Everything trends toward chaos over time. You may have precisely uncovered & defined your values. You may have completely reshaped your life around those values. But perhaps the hardest step is defending your values and lifestyle over time—from yourself, from others, and from the quiet, passive, insidious drone of societal pressure.
+Entropy. Everything trends toward chaos over time. You may have precisely uncovered & defined your values. You may have completely reshaped your life around those values. But perhaps the hardest step is defending your values and lifestyle over time—from yourself, from others, and from the quiet, insidious drone of societal pressure.
 
 ### 1) Defending against yourself
 
@@ -95,7 +95,7 @@ The truth is, everyone has their own interests and will ultimately aim to fulfil
 
 The solution is the same: you must remain diligent in observing your values as they shift over time, and constantly adjust the course of the ship accordingly. This way, even if the wheel is tampered with, you can detect this change and remedy it with haste, before you land in the wrong place. Additionally, you may also consider removing the biggest detractors—those whose interests least align with your authentic life path and are unwilling to be loyal passengers—from your life. The act of curating the people you surround yourself with is an important part of living life on offense.
 
-### 3) Defending against the quiet, passive, insidious drone of societal pressure
+### 3) Defending against the quiet, insidious drone of societal pressure
 
 This one is dangerous because it's not obvious. It's like water running down the side of a mountain. Its gentle pressure and friction, over a long enough period of time, eventually carve out a formidable ridge, fundamentally reshaping the terrain. We don't live in a void. Our subconscious is constantly seeking approval from others. As a hunter-gatherer, deviating from the norm meant potentially losing the favor of the pack, and ultimately, abandonment and death. It was essential to fit in.
 
