@@ -99,7 +99,7 @@ The solution is the same: you must remain diligent in observing your values as t
 
 This one is dangerous because it's not obvious. It's like water running down the side of a mountain. Its gentle pressure and friction, over a long enough period of time, eventually carve out a formidable ridge, fundamentally reshaping the terrain. We don't live in a void. Our subconscious is constantly seeking approval from others. As a hunter-gatherer, deviating from the norm meant potentially losing the favor of the pack, and ultimately, abandonment and death. It was essential to fit in.
 
-This poses an interesting challenge. Our minds are in many ways wired against the concept of living authentically, on offense. This manifests itself subtly, by triggering small, almost unnoticable emotions that gently steer you toward satisfying the expectations of others, instead of staying the course, and pursuing your authentic path.
+This poses an interesting challenge. Our minds are, in many ways, wired against the concept of living authentically, on offense. This manifests itself subtly, by triggering small, almost unnoticable emotions that gently steer you toward satisfying the expectations of others, instead of staying the course, and pursuing your authentic path.
 
 Once again, the solutions are the same. 1) Curate your environment—surround yourself with, and associate with, other people or groups who serve as tailwinds, not headwinds. 2) Remain diligent in regularly tracking & correcting your course.
 
