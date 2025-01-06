@@ -1,6 +1,6 @@
 ---
 title: Live life on offense
-date: 2024-01-04
+date: 2024-01-06
 # draft: true
 ---
 
