@@ -20,7 +20,7 @@ He had a thick accent & his navigation system instructed him in Spanish. As I en
 
 *"How was your new year?"*
 
-He asked enthuiastically, with a warm and interested smile on his face. He made eye contact through the rear-view mirror as if to say, *"I know most people don't really care when they ask a question like that, but I'm different. I care. So, please, tell me how your new year was. I'm bored and you will improve my day a little if you ramble for me a little."* 
+He asked enthuiastically, with a warm and interested smile on his face. He made eye contact through the rear-view mirror as if to say, *"I know most people don't really care when they ask a question like that, but I'm different. I care. So, please, tell me how your new year was. I'm bored and you will improve my day if you ramble for me a little."* 
 
 I couldn't turn down his friendly gesture and/or plea for help.
 
