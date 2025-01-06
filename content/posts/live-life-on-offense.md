@@ -89,7 +89,7 @@ Often, you may find that the clash of intentions between yourself and another in
 
 And in some cases, you may even share the same exact values and life intentions as your counterpart. The problem is, as I alluded to earlier, your (and your counterpart's) values evolve over time, and therefore, so too does your authentic life path. If you’re effectively living this philosophy, then you’re probably aware of this effect, and you’re consistently course-correcting, often a few degrees at a time. However, your counterpart may not be. They may continue to assume that the ship is headed toward its original destination—or that it is magically adjusting course to account for their evolving interests and desires.
 
-And last but not least, you must be wary of those who are purposely deceitful. They may say the right things and appear to have your best interests in mind. And at first, their behaviors may align with this facade. But slowly, over time, little by little, they may gradually adjust the course of the ship, without your awareness. One degree at a time... until the destination no longer holds any semblance to your true intentions.
+And last but not least, you must be wary of those who are purposely deceitful. They may say the right things and appear to have your best interests in mind. And at first, their behaviors may align with this facade. But slowly, over time, little by little, they may gradually adjust the course of the ship, without your awareness. One degree at a time... until the destination no longer holds any semblance to your authentic intention.
 
 The truth is, everyone has their own interests and will ultimately aim to fulfill them, regardless of whether or not yours are respected along the way. 
 
