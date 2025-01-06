@@ -6,11 +6,11 @@ date: 2024-01-06
 
 Once upon a recent uber ride, I was headed downtown to meet a friend for drinks.
 
-I normally enjoy having conversations with the infinitely diverse population of uber drivers. I often treat it as a personal challenge; to find some way to connect with the person in the span of a ten or 15-minute drive—especially if they seem very different from myself on the surface.
+I normally enjoy having conversations with the infinitely diverse population of uber drivers. I often treat it as a personal challenge; to find some way to connect with the other person in the span of a ten-to-fifteen-minute drive, especially if they seem very different from myself on the surface.
 
-Lots of fun conversations and stories have funneled through the gap between the two front seats—ranging from political, to life lessons, to hilariously vulgar, to shocking events they've experienced.
+Lots of fun conversations and stories have funneled through the gap between the two front seats—ranging from political, to life lessons, to the hilariously vulgar, to shocking events they've experienced.
 
-**That being said.**
+**However,**
 
 On this rare, fateful occasion I was in a not-super-in-the-mood-to-have-a-conversation vibe.
 
