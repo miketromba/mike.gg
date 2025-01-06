@@ -1,5 +1,5 @@
 ---
-title: Public competence
+title: A public compression of the mind
 date: 2024-01-03
 ---
 
