@@ -57,7 +57,7 @@ Once again, simple, but not easy. All of this is an iterative, evolving process.
 
 There's a simple technique to figure out the changes you need to make in your life. Here it is: Write down & re-read your values on a regular basis, and ask yourself, am I living in accordance with each value? Aim to identify the inconsistencies between your idealized values and how you’re actually living your life. The gaps represent your potential to change things. And as these gaps enter your field of view, the right ideas will inevitably spawn, giving you the opportunity to act on them and make changes.
 
-It's important to empty your mind & open your heart before doing this. Meditate for a few moments to release any residual thoughts or feelings from the day. Your goal to see as clearly as possible, without the fog of your life's current state and trajectory clouding your view.
+It's important to empty your mind & open your heart before doing this. Meditate for a moment to release any residual thoughts or feelings from the day. Your goal to see as clearly as possible, without the fog of your life's current state and trajectory clouding your view.
 
 If you've made it this far, congrats. The act of proactively changing and reshaping your life is, you guessed it, living on offense.
 
