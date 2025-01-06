@@ -1,13 +1,22 @@
 // import Link from 'next/link'
 import Content from '@/components/Content'
 import { getPost, getSortedPostsData } from '../../lib/content'
+import { permanentRedirect } from 'next/navigation'
+import { redirects } from '../../../content/redirects'
 
 // Return a list of `params` to populate the [postId] dynamic segment
 export async function generateStaticParams() {
 	const posts = getSortedPostsData()
-	return posts.map(post => ({
-		pageId: post.id
-	}))
+	return [
+		...posts.map(post => ({
+			pageId: post.id
+		})),
+		...redirects.map(([from]) => {
+			return {
+				pageId: from
+			}
+		})
+	]
 }
 
 export default async function Page({
@@ -17,6 +26,11 @@ export default async function Page({
 		postId: string
 	}>
 }) {
+	for (const [from, to] of redirects) {
+		if (from === (await params).postId) {
+			permanentRedirect(`/${to}`)
+		}
+	}
 	const { postId } = await params
 	if (typeof postId !== 'string') throw new Error('Page not found')
 	const post = getPost(postId)
