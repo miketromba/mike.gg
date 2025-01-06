@@ -109,4 +109,4 @@ If you are reading this, you're most likely the type of person that naturally fe
 
 ## Credits
 
-I would like to give credit to the book, [*The Value Of Others, by Dr. Orion Taraban*](https://www.amazon.com/Value-Others-Understanding-Relationships-Marketplace-ebook/dp/B0D1Q5LHNV), for providing the inspiration behind many of the analogies in this essay. Particularly the ones related to building a ship, charting a course, and being a captain. If you found this essay interesting, I highly recommend giving the book a read.
+I would like to give credit to the book, [*The Value Of Others, by Dr. Orion Taraban*](https://www.amazon.com/Value-Others-Understanding-Relationships-Marketplace-ebook/dp/B0D1Q5LHNV), for providing the inspiration behind many of the analogies in this essay. Particularly the ones related to building a ship, charting a course, and becoming a captain. If you found this essay interesting, I highly recommend giving the book a read.
