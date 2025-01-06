@@ -10,9 +10,9 @@ I normally enjoy having conversations with the infinitely diverse population of 
 
 Lots of fun conversations and stories have funneled through the gap between the two front seats—ranging from political, to life lessons, to the hilariously vulgar, to shocking events they've experienced.
 
-**However,**
+**However.**
 
-On this rare, fateful occasion I was in a not-super-in-the-mood-to-have-a-conversation vibe.
+On this rare, fateful occasion I was in a "not-super-in-the-mood-to-have-a-conversation" vibe.
 
 To my dismay, the driver was very friendly.
 
