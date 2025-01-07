@@ -77,7 +77,7 @@ You must remain diligent and fend off:
 
 ### 2) Defending against others
 
-This one is often obvious. You have an objective in your life, and your "adversary" has an opposing or tangential objective. The unfortunate truth is, the longer you remain in this individual's company, the harder it will be to move in your authentic direction. You water of the river will thicken and you will have to paddle with double the force to traverse the same distance. While not always feasable, the ultimate solution is to remove the obstacle from your life. Release those individuals who serve as a headwind instead of a tailwind.
+This one is often obvious. You have an objective in your life, and your "adversary" has an opposing or tangential objective. The unfortunate truth is, the longer you remain in this individual's company, the harder it will be to move in your authentic direction. The water of the river will thicken and you will have to paddle with double the force to traverse the same distance. While not always feasable, the ultimate solution is to remove the obstacle from your life. Release those individuals who serve as a headwind instead of a tailwind.
 
 Alternatively, you may be tempted into negotiation. Although you'd like to go to point A, instead of point C, you may compromise on point B. The problem is that any point, other than "A," is inauthentic. It is in misalignment with your values. You will be once again, living defensively.
 
