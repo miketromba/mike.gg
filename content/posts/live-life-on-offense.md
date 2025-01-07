@@ -47,13 +47,13 @@ Here are a few of the values I’ve arrived at after years of introspection and 
 
 There are a bunch more. It’s hard to do them justice with just one bullet point worth of detail.
 
-Feel free to use these as a starting point in your own reflection, but I encourage you to be honest with yourself, without judgment. Not all values are universally accepted as virtuous, and that is ok. You may have additional circumstances or context that justify them—that others would not understand. I imagine an inmate in prison probably requires a different set of values than you or I, which may be perfectly reasonable within the context of the prisoner’s life, and, simultaneously, completely socially unacceptable & repulsive to the average, free, law-abiding citizen. That’s an extreme example, but you get the point. Remember, the core of this exercise is authenticity. Adopting someone elses values without congruence with your own mind would be entirely antithetical to this essay.
+Feel free to use these as a starting point in your own reflection, but I encourage you to be honest with yourself, without judgment. Not all values are universally accepted as virtuous, and that is ok. You may have additional circumstances or context that justify them—that others would not understand. I imagine an inmate in prison probably requires a different set of values than you or I, which may be perfectly reasonable within the context of the prisoner’s life, and, simultaneously, completely socially unacceptable & repulsive to the average, free, law-abiding citizen. That’s an extreme example, but you get the point. Remember, the core of this exercise is authenticity. Adopting someone else's values without congruence with your own mind would be entirely antithetical to this essay.
 
 I suspect most people are perpetually stuck on this step, because they are blind to their own values, and it is challenging / takes time to uncover them.
 
 ## 2) Decide how to live authentically in accordance with those values
 
-Once again, simple, but not easy. All of this is an iterative, evolving process. Fortunately, the things that you know you “should” do with are typically bubbling just beneath the surface. However, depending on how deeply censored your vision has become, they may be difficult to see.
+Once again, simple, but not easy. All of this is an iterative, evolving process. Fortunately, the things that you know you “should” do are typically bubbling just beneath the surface. However, depending on how deeply censored your vision has become, they may be difficult to see.
 
 There's a simple technique to figure out the changes you need to make in your life. Here it is: Write down & re-read your values on a regular basis, and ask yourself, am I living in accordance with each value? Aim to identify the inconsistencies between your idealized values and how you’re actually living your life. The gaps represent your potential to change things. And as these gaps enter your field of view, the right ideas will inevitably spawn, giving you the opportunity to act on them and make changes.
 
