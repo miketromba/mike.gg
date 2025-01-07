@@ -65,7 +65,7 @@ If you've made it this far, congrats. The act of proactively changing and reshap
 
 Entropy. Everything trends toward chaos over time. You may have precisely uncovered & defined your values. You may have completely reshaped your life around those values. But perhaps the hardest step is defending your values and lifestyle over time—from yourself, from others, and from the quiet, insidious drone of societal pressure.
 
-### 1) Defending against yourself
+### Defending against yourself
 
 The first step is accepting that you are your own worst enemy.
 
@@ -75,7 +75,7 @@ You must remain diligent and fend off:
 - **Fatigue:** Anything that requires stable effort, cognition, and maintenance over an endless time horizon sucks. You must change the oil regularly, or the engine will seize. You’re signing up for a life of perpetual intentionality. Meaningful, rewarding, fulfilling, but fucking hard sometimes. Especially when you make bad decisions and you have to accept the potentially substantial loss associated with those decisions as entirely your fault. Living on offense is tiring. You're not floating in the river of life, allowing it to take you where it may. No, not for you. You've built your own boat, charted your own course, and are actively paddling against chaotic, swirling currents at all times. Therefore, it's essential that you treat yourself and your life as though you are a high-performance athlete. You must take care of your health, mind, and soul, so that you can awake each morning and continue to fight the currents with vigor & enthusiasm. And when do you do this for long enough, you may be pleased to find that you have developed your own current, a personal momentum, that cuts through the swirling mess & helps you stay on course, with less effort than the day you embarked.
 - **Decay:** The clarity and potency you will feel when you first uncover your values, and the enthuiastic optimism you will experience when you initiate the corresponding life changes, will be at an all-time high at the start. But this enthusiasm will decay. Your mind will wander. “Life shit” will happen, inevitably forcing you back into a reactive state. You’ll have to fight the inertia of reactivity over and over to maintain your offensive posture. You may get swept up by the river on occasion. Your boat may be damaged. Get up, rebuild, and re-embark.
 
-### 2) Defending against others
+### Defending against others
 
 This one is often obvious. You have an objective in your life, and your "adversary" has an opposing or tangential objective. The unfortunate truth is, the longer you remain in this individual's company, the harder it will be to move in your authentic direction. The water of the river will thicken and you will have to paddle with double the force to traverse the same distance. While not always feasable, the ultimate solution is to remove the obstacle from your life. Release those individuals who serve as a headwind instead of a tailwind.
 
@@ -95,7 +95,7 @@ The truth is, everyone has their own interests and will ultimately aim to fulfil
 
 The solution is the same: you must remain diligent in observing your values as they shift over time, and constantly adjust the course of the ship accordingly. This way, even if the wheel is tampered with, you can detect this change and remedy it with haste, before you land in the wrong place. Additionally, you may also consider removing the biggest detractors—those whose interests least align with your authentic life path and are unwilling to be loyal passengers—from your life. The act of curating the people you surround yourself with is an important part of living life on offense.
 
-### 3) Defending against the quiet, insidious drone of societal pressure
+### Defending against the quiet, insidious drone of societal pressure
 
 This one is dangerous because it's not obvious. It's like water running down the side of a mountain. Its gentle pressure and friction, over a long enough period of time, eventually carve out a formidable ridge, fundamentally reshaping the terrain. We don't live in a void. Our subconscious is constantly seeking approval from others. As a hunter-gatherer, deviating from the norm meant potentially losing the favor of the pack, and ultimately, abandonment and death. It was essential to fit in.
 
